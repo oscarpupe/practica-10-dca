@@ -132,6 +132,7 @@ int main() {
 	string respuesta, nombre, autor, comentario_nuevo, reporte_selec;
 	int opcion, contador;
 	Reporte reporte;
+	cout << " Proyecto de Oscar Puerta Perez"<< endl;
 	
 	RellenaReportes();
 	
