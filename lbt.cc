@@ -135,7 +135,7 @@ int main() {
 	cout << " Proyecto de Oscar Puerta Perez"<< endl;
 	cout << " Practica de 2016"<< endl;
 	cout << " Este es un lbt que esta muy bien"<< endl;
-	cout << " Prueba de hooks"<< endl;
+	cout << " Prueba de hooks 2"<< endl;
 	RellenaReportes();
 	
 	while(opcion!=6) {
