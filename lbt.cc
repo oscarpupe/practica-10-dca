@@ -134,7 +134,7 @@ int main() {
 	Reporte reporte;
 	cout << " Proyecto de Oscar Puerta Perez"<< endl;
 	
-	RellenaReportes();
+	RellenaReportes()
 	
 	while(opcion!=6) {
 		opcion=0;
