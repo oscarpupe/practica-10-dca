@@ -133,6 +133,7 @@ int main() {
 	int opcion, contador;
 	Reporte reporte;
 	cout << " Proyecto de Oscar Puerta Perez"<< endl;
+	cout << " Practica de 2016"<< endl;
 	
 	RellenaReportes();
 	
